@@ -1,7 +1,7 @@
 
 
 
-She is a NZCA registered counsollor...
+A NZCA registered counsollor...
 
 #### Email
 aaa[at]xigua.com
