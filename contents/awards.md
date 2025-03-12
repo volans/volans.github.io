@@ -1,13 +1,36 @@
-- National Scholarship of Graduate Student, 2024.
+# 欢迎体验西瓜心理咨询  
 
-- First-prize Scholarship of CUMT, 2024.
+---
 
-- First-prize Scholarship of CUMT, 2023.
+## 关于我  
 
-- Freshman Scholarship of CUMT, 2022.
+你好！我是 Xiujing，一名在新西兰注册的心理咨询师。在西瓜心理咨询，我致力于为您提供一个安全、温馨的空间，让您探索自己的内心世界、情感和个人成长。西瓜的清新与活力启发了我，我希望以温暖、同理心和专注的方式，帮助您找到内心的平静与力量。无论您是面对生活中的挑战，还是追求自我发现，我都会陪伴您走过这段旅程。  
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+---
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+## 我的服务  
 
-- First-prize Scholarship of CUMT, 2019.
+- **个人咨询**：针对压力、焦虑或生活转变的个性化会谈。  
+- **正念支持**：帮助培养内心平静与自我觉察的技巧。  
+- **成长工作坊**：小组活动，助力个人发展和情感韧性。  
+
+---
+
+## 为什么是西瓜？  
+
+西瓜象征着清新的迸发与成长的种子。正如西瓜带来滋润与清爽，我希望通过心理咨询为您带来生活的焕新与平静。这是一场播种，让您变得更坚强、更宁静的旅程。  
+
+---
+
+## 预约咨询  
+
+准备好开始了吗？请查看下方日历中的可用时间并预约咨询。期待与您相见！  
+
+[嵌入 Google 日历的占位符]  
+
+---
+
+## 联系我  
+
+- **邮箱**: xiujing@watermeloncounselling.com  
+- **地址**: 新西兰奥克兰  
