@@ -1,6 +1,3 @@
-# Welcome to Watermelon Counselling  
-
----
 
 ## About Me  
 
