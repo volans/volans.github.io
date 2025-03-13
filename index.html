@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="Academic Webpage" />
-    <meta name="author" content="senli1073" />
-    <title id="title"></title>
+    <meta name="description" content="Watermelon Counselling" />
+    <meta name="author" content="Xiujing" />
+    <title>Watermelon Counselling</title>
 
     <!-- Icon -->
     <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
@@ -16,22 +16,50 @@
 
     <!-- Google fonts-->
     <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap"
-        rel="stylesheet" />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap"
-        rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&display=swap" rel="stylesheet" />
 
     <!-- Core theme CSS (includes Bootstrap)-->
     <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
 
+    <!-- 添加内联 CSS 以调整背景 -->
+    <style>
+        /* 顶部背景：西瓜主题渐变或水墨风 */
+        .top-section {
+            background: linear-gradient(135deg, #e6f0e0 0%, #fdd1d1 50%, #f5f5f5 100%);
+            /* 可替换为水墨画图片：background: url('static/assets/img/ink-background.jpg') no-repeat center center; */
+            background-size: cover;
+            min-height: 400px; /* 保持高度 */
+            position: relative;
+        }
+        .top-section-content {
+            background: rgba(255, 255, 255, 0.3); /* 半透明遮罩，增加文字可读性 */
+            padding: 20px;
+        }
+        /* 内容区背景：柔和渐变 */
+        .bg-gradient-primary-to-secondary-light {
+            background: linear-gradient(to bottom, #f0f7e9, #ffffff);
+        }
+        .bg-gradient-primary-to-secondary-gray {
+            background: linear-gradient(to bottom, #f5f5f5, #ffffff);
+        }
+        /* 导航栏调整：与背景协调 */
+        .navbar {
+            background: rgba(255, 255, 255, 0.9); /* 半透明白色 */
+        }
+        /* 页脚背景 */
+        .bg-bottom {
+            background: #e6f0e0; /* 浅绿色，呼应西瓜主题 */
+            color: #4a704a; /* 深绿色文字 */
+        }
+    </style>
+
     <!-- Bootstrap core JS-->
     <script type="text/javascript" src="static/js/bootstrap.bundle.min.js"></script>
 
-    <!-- For Compatability -->
+    <!-- For Compatibility -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     
     <!-- Markdown -->
@@ -39,32 +67,22 @@
 
     <!-- Mathematics -->
     <script>
-        // See https://docs.mathjax.org/en/latest/index.html for more details.
         MathJax = {
             tex: {
-                packages: {},              // extensions to use
-                inlineMath: [              // start/end delimiter pairs for in-line math
-                    ['$', '$'],
-                    ['\\(', '\\)']
-                ],
-                displayMath: [             // start/end delimiter pairs for display math
-                    ['$$', '$$'],
-                    ['\\[', '\\]']
-                ],
-                processEscapes: false,      // use \$ to produce a literal dollar sign
-                processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
-                processRefs: true,         // process \ref{...} outside of math mode
-                digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,    // pattern for recognizing numbers
-                tags: 'all',              // or 'ams' or 'all'
-                tagSide: 'right',          // side for \tag macros
-                tagIndent: '0.8em',        // amount to indent tags
-                useLabelIds: true,         // use label name rather than tag for ids
-                maxMacros: 10000,          // maximum number of macro substitutions per expression
-                maxBuffer: 5 * 1024,       // maximum size for the internal TeX string (5K)
-                // baseURL:                   // URL for use with links to tags (when there is a <base> tag in effect)
-                // (document.getElementsByTagName('base').length === 0) ? '' : String(document.location).replace(/#.*$/, ''),
-                formatError:               // function called when TeX syntax errors occur
-                    (jax, err) => jax.formatError(err)
+                packages: {},
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']],
+                processEscapes: false,
+                processEnvironments: true,
+                processRefs: true,
+                digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,
+                tags: 'all',
+                tagSide: 'right',
+                tagIndent: '0.8em',
+                useLabelIds: true,
+                maxMacros: 10000,
+                maxBuffer: 5 * 1024,
+                formatError: (jax, err) => jax.formatError(err)
             }
         };
     </script>
@@ -81,8 +99,7 @@
     <!-- Navigation-->
     <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
         <div class="container px-5">
-            <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
-            <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
+            <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top">Watermelon Counselling</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 MENU
@@ -90,30 +107,22 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#page-top">HOME</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#publications">English</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#awards">中文</a>
-                    </li>
-
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="#page-top">HOME</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="#publications">English</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="#awards">中文</a></li>
                 </ul>
             </div>
         </div>
     </nav>
 
     <!-- Top Section -->
-    <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
+    <section class="top-section">
         <div class="top-section-content">
             <div class="container px-5">
-                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt"></h2>
+                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt">Watermelon Counselling</h2>
             </div>
         </div>
     </section>
-    <!-- Top Section -->
 
     <!-- Photo -->
     <div class="container px-5">
@@ -121,57 +130,45 @@
             <img class="shadow" src="static/assets/img/photo.png">
         </div>
     </div>
-    <!-- Photo -->
     
     <!-- Home -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
         <div class="container px-5">
             <header>
-                <h2 id="home-subtitle"> </h2>
-                <!-- <span class="bi bi-list"></span> -->
+                <h2 id="home-subtitle"></h2>
             </header>
             <div class="main-body" id="home-md"></div>
         </div>
     </section>
-    <!-- Home -->
 
     <!-- Publications -->
     <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
         <div class="container px-5">
             <header>
-                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;Welcome to Watermelon Counselling</h2>
+                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i> Welcome to Watermelon Counselling</h2>
             </header>
             <div class="main-body" id="publications-md"></div>
-
         </div>
     </section>
-    <!-- Publications  -->
 
     <!-- Awards -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
         <div class="container px-5">
             <header>
-                <h2 id="awards-subtitle"><i class="bi bi-file-text-fill"></i>欢迎体验西瓜心理咨询 </h2>
+                <h2 id="awards-subtitle"><i class="bi bi-file-text-fill"></i> 欢迎体验西瓜心理咨询</h2>
             </header>
             <div class="main-body" id="awards-md"></div>
-
         </div>
     </section>
-    <!-- Awards -->
-
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
         <div class="container px-5">
             <div class="text-white-50 small">
                 <div id="copyright-text" class="mb-2"></div>
-                <!-- <a id="github-link" href="https://github.com/senli1073">Github</a>
-                <span class="mx-1">&middot;</span>
-                <a id="license-link" href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a> -->
             </div>
         </div>
     </footer>
 
 </body>
-
 </html>
