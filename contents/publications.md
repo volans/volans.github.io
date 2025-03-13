@@ -21,13 +21,5 @@ Watermelon represents a burst of freshness and a seed of growth. Just as a water
 
 ## Book a Session  
 
-Ready to start? Check my availability and book a session through the calendar below. I look forward to connecting with you!  
-
-[Placeholder for Google Calendar Embed]  
-
----
-
-## Contact Me  
-
 - **Email**: xiujing@watermeloncounselling.com  
 - **Location**: Auckland, New Zealand  
