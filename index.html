@@ -24,35 +24,64 @@
     <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
 
-    <!-- 添加内联 CSS 以调整背景 -->
+    <!-- 添加内联 CSS 调整背景 -->
     <style>
-        /* 顶部背景：西瓜主题渐变或水墨风 */
+        /* 整体页面背景 */
+        body {
+            background: linear-gradient(to bottom, #f0f7e9, #ffffff); /* 浅绿到白色渐变 */
+            color: #333;
+        }
+        /* 顶部背景 */
         .top-section {
-            background: linear-gradient(135deg, #e6f0e0 0%, #fdd1d1 50%, #f5f5f5 100%);
-            /* 可替换为水墨画图片：background: url('static/assets/img/ink-background.jpg') no-repeat center center; */
+            background: linear-gradient(135deg, #e6f0e0 0%, #fdd1d1 50%, #f5f5f5 100%); /* 西瓜主题渐变 */
             background-size: cover;
-            min-height: 400px; /* 保持高度 */
+            min-height: 400px;
             position: relative;
         }
         .top-section-content {
-            background: rgba(255, 255, 255, 0.3); /* 半透明遮罩，增加文字可读性 */
+            background: rgba(255, 255, 255, 0.3); /* 半透明遮罩 */
             padding: 20px;
         }
-        /* 内容区背景：柔和渐变 */
-        .bg-gradient-primary-to-secondary-light {
-            background: linear-gradient(to bottom, #f0f7e9, #ffffff);
+        .top-section-content h2 {
+            color: #4a704a; /* 西瓜皮绿色 */
+            font-weight: 600;
         }
-        .bg-gradient-primary-to-secondary-gray {
-            background: linear-gradient(to bottom, #f5f5f5, #ffffff);
-        }
-        /* 导航栏调整：与背景协调 */
+        /* 导航栏 */
         .navbar {
             background: rgba(255, 255, 255, 0.9); /* 半透明白色 */
         }
-        /* 页脚背景 */
+        .navbar-brand, .nav-link {
+            color: #4a704a !important; /* 绿色导航文字 */
+        }
+        .nav-link:hover {
+            color: #fdd1d1 !important; /* 粉红悬停效果 */
+        }
+        /* 头像区域 */
+        #avatar {
+            text-align: center;
+            margin-top: -50px; /* 稍微上移，与背景融合 */
+        }
+        #avatar img {
+            border: 5px solid #fdd1d1; /* 粉红色边框，呼应西瓜 */
+            border-radius: 10px;
+        }
+        /* 内容区 */
+        .bg-gradient-primary-to-secondary-light, .bg-gradient-primary-to-secondary-gray {
+            background: transparent; /* 移除原有渐变，依赖 body 背景 */
+        }
+        .main-body {
+            background: rgba(255, 255, 255, 0.8); /* 半透明白色卡片 */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #4a704a; /* 统一标题颜色 */
+        }
+        /* 页脚 */
         .bg-bottom {
-            background: #e6f0e0; /* 浅绿色，呼应西瓜主题 */
-            color: #4a704a; /* 深绿色文字 */
+            background: #e6f0e0; /* 浅绿色 */
+            color: #4a704a;
         }
     </style>
 
@@ -119,7 +148,7 @@
     <section class="top-section">
         <div class="top-section-content">
             <div class="container px-5">
-                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt">Watermelon Counselling</h2>
+                <h2 id="top-section-bg-text" class="display-3 lh-1 font-alt">Watermelon Counselling</h2>
             </div>
         </div>
     </section>
