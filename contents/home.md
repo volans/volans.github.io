@@ -1,15 +1,12 @@
 
 
 
-A NZCA registered counsollor...
+A New Zealand Association of Counsellors (NZAC) certified counsollor.
 
-#### Email
-aaa[at]xigua.com
 
-#### Education
-B.E., Counsolling, AUT, 2019-2024\
-B.E., Telecommunication Engineering, 2000-2004.
+#### Contact
+xiujingcounselling@gmail.com
+021 040 5818
 
 #### Specialties
-CBT, Parenting, Coupling, Group
-
+Children’s counselling, adult emotional management, couples counselling, immigration family challange management...
