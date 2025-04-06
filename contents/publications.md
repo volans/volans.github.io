@@ -7,12 +7,12 @@ I previously worked in project management and process management for a Fortune 5
 After immigrating to New Zealand, I completed professional training in counselling and obtained certification from the New Zealand Association of Counsellors (NZAC). This training, combined with my life experiences in both Eastern and Western cultures, enables me to understand more comprehensively:
 
 - The challenges faced by families from different cultural backgrounds  
-- The psychological needs during the growth of children and adolescents  
+- The emotional needs during the growth of children and adolescents  
 - The mutual influence of marital relationships and family dynamics  
 
 ## Features of My Services
 
-- **Engineering Thinking + Psychological Expertise**: Skilled in using clear frameworks to analyze complex psychological issues.  
+- **Engineering Thinking + Counselling Expertise**: Skilled in using clear frameworks to understand complex mental health issues.  
 - **Cross-Cultural Perspective**: Deep understanding of the dual cultural adaptation faced by immigrant families.  
 - **All-Age Services**: From children’s counselling, adolescent emotional guidance, adult emotional management, to couples counselling.  
 
