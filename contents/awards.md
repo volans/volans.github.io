@@ -43,7 +43,7 @@
 ## 联系方式
 
 欢迎随时发送短信：**021 040 5818**  
-或发送电子邮件至：**xiujingcounselling@gmail.com**  进行咨询。
+或发送电子邮件至：**xiujingcounselling@gmail.com**  进行咨询。 
 地址：: 9A Roslyn Road, Mount Wellington, Auckland 1060
 
 ## 费用
