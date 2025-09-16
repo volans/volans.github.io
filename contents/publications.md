@@ -1,42 +1,30 @@
-# About Me
+## Working Together
 
-Hello, I am Xiujing, originally from Beijing, China, now a registered counsellor and parent coach in New Zealand.
+I have experience in assisting individuals and family members navigate a wide range of difficulties, such as anxiety, depression, relationship challenges, feelings of loneliness, lack of control, low mood, powerlessness, and stress. Facing these issues alone can be extremely tough, and taking the first step to reach out to a counselor can often feel daunting, yet it is a courageous move.
 
-I previously worked in project management and process management for a Fortune 500 high-tech multinational company in Beijing. This career background has equipped me with rigorous logical thinking and systematic problem-solving skills. However, after becoming a wife and mother, my deep exploration of parenting and interpersonal relationships led to a beautiful shift in my life’s trajectory. Over the years, I have systematically studied parenting courses both domestically and internationally.
+As a counselor, I approach my work with warmth and empathy, and I am dedicated to offering support in a secure, private, and non-judgmental setting. My counselling sessions are designed to help you enrich your life and live it more fully, which might involve examining your habitual thoughts, emotions, and behaviours to understand what may be serving you well.
 
-After immigrating to New Zealand, I completed professional training in counselling and obtained certification from the New Zealand Association of Counsellors (NZAC). This training, combined with my life experiences in both Eastern and Western cultures, enables me to understand more comprehensively:
+By working with me, you can find a place to process your emotions related to life changes or simply enjoy a dedicated “space” for yourself. Counseling can either concentrate on a particular issue or provide a free environment to explore all your thoughts and feelings at your own pace. Ultimately, how you choose to utilise this space is entirely up to you.
 
-- The challenges faced by families from different cultural backgrounds  
-- The emotional needs during the growth of children and adolescents  
-- The mutual influence of marital relationships and family dynamics  
+Together, we can adapt our approach to match your pace and expectations, with a strong focus on exploring the changes you desire.
 
-## Features of My Services
+## My Approach
 
-- **Engineering Thinking + Counselling Expertise**: Skilled in using clear frameworks to understand complex mental health issues.  
-- **Cross-Cultural Perspective**: Deep understanding of the dual cultural adaptation faced by immigrant families.  
-- **All-Age Services**: From children’s counselling, adolescent emotional guidance, adult emotional management, to couples counselling.  
+Whether you prefer to talk online or in person, my appointments provide a safe space where you can discuss your situation compassionately and in complete confidence. Using Person-Centred Therapy, CBT, DBT, Sand Tray, Narrative Therapy, and Transactional Analysis, we can identify and work on the areas of your life that you’d like to address.
 
-I believe that everyone has the power for self-growth within them, and good counselling acts like a mirror, helping us see ourselves more clearly and face life with greater ease.
+## For Parents:
 
-## Are You Seeking?
+A ten-session parenting course has been developed for delivery. The course content is scientific, comprehensive, and systematic. Through ten topics, it not only explains how to better raise children but also supports parents in taking better care of themselves. This course is suitable for parents of all age groups, and even parents with adult children have found it quite beneficial, significantly improving the parent-child relationship.
 
-- ✅ Someone who understands you and walks alongside you through difficult periods  
-- ✅ Healthier emotional management skills  
-- ✅ More effective parent-child communication methods  
-- ✅ More harmonious marital relationships  
-- ✅ More comfortable cross-cultural adaptation  
+Being a parent is not an easy task. Regardless of your educational background, social status, or life experience, you are likely to encounter various “stuck points.” Being stuck is not your fault. Sometimes, you just need a little bit of support to overcome it.
 
-I am here to provide warm and practical support using my professional knowledge and cross-disciplinary experience.
+## Contact Me
 
-## Book a Consultation
+Please feel free to text: **021 040 5818**  
+Or email: **xiujingcounselling@gmail.com** for inquiries.
 
-Feel free to book an online or face-to-face consultation, and let’s explore the growth path that suits you best.
 
-### My Rates
+## My Rates
 - **Individual Counselling**: $120 per hour  
 - **Couples Counselling**: $180 per 1.5 hours  
 - **Parent Coaching**: $120 per hour  
-
-### Contact Me
-Please feel free to text: **021 040 5818**  
-Or email: **xiujingcounselling@gmail.com** for inquiries.
